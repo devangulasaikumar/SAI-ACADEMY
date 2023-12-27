@@ -1,6 +1,6 @@
 Responsive Website of Institution   
 
-TECH STACKS USEDD : HTML,CSS ,JAVA SCRIPT
+TECH STACKS USED : HTML,CSS ,JAVA SCRIPT
 
 
 
